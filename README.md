@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rachelchua99
 - 👀 I’m passionate in making sense and analyzing trends from data
 - 🌱 I’m currently learning Machine Learning
-- 📫 LinkedIn : https://www.linkedin.com/in/rachel-chua-kq/
+- 📫 LinkedIn : https://www.linkedin.com/in/rachchua/
 - Gmail : rachelkq7@gmail.com
